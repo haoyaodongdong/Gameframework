@@ -1,2 +1,3 @@
 /gameframework/Temp/*
-*.gitingore
+/gameframework/Library/*
+/gameframework/.vs/*
